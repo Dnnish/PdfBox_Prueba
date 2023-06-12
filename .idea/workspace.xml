@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83c8afc7-d9dd-4c14-aea1-e06badbf0b68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CargarPdfEnNuevo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CrearPdf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Demostracion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/añadirImagenes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/contraseñapdf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/reducciondepaginas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/separcionPDF.java" afterDir="false" />
-    </list>
+    <list default="true" id="83c8afc7-d9dd-4c14-aea1-e06badbf0b68" name="Changes" comment="Varias pruebas con Pdfbox" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +40,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/dchirinos/Documents/proyectos de spring boot/pdfboxprueba"
   }
 }]]></component>
   <component name="RunManager">
@@ -88,6 +73,18 @@
       <option name="presentableId" value="Default" />
       <updated>1682330375799</updated>
     </task>
+    <task id="LOCAL-00001" summary="Varias pruebas con Pdfbox">
+      <created>1686581423189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686581423189</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Varias pruebas con Pdfbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="Varias pruebas con Pdfbox" />
   </component>
 </project>
